@@ -2,7 +2,7 @@
 ## _Frontend Engineer_  
   
 ### _SUMMARY_  
-I am looking for a job for my own development and with the possibility of career growth. I am ready for self-study, my goal is a high result. I have education and knowledge in different areas. I have leadership skills. I am always attentive to small details. I can correctly express my thoughts. My English level is A2 (Elementary English), and I continue to learn it. I will not stop at the achieved result.  
+I am looking for a job providing development and career growth. I believe that a person should be well-rounded. As to me I am always ready for self-study, because I am aimed to high results in my work. My specialization is organization and management of instrument manufacturing. Nevertheless my working experience is pretty diverse. All my knowledge was attained through considerable experience, training and self-study. Due to that I have the required skills and ability to work in challenging work environment. I possess the leadership skills, soft skills, moreover I am diligent, proactive and always attentive to small details. My English level is A2 (Elementary English), and I do my best to master it. I have a great learning capability and desire to learn.  
   
 ### _SKILLS_  
 OOP, HTML5, CSS3, JavaScript, React, Redux, Bootstrap, Mocha, GIT, SQL, APIs, Webpack, VS Code  
