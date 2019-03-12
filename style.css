@@ -40,10 +40,10 @@ main {
 
 .name {
   margin: 0;
-  color: rgb(0, 81, 81);
   font-weight: 700;
   font-size: 80.5px;
   line-height: 1.2;
+  color: rgb(0, 81, 81);
 }
 
 .info {
@@ -59,9 +59,9 @@ main {
 }
 
 .profession {
-  color: rgb(90, 81, 81);
   font-size: 41.5px;
   line-height: 2;
+  color: rgb(90, 81, 81);
 }
 
 a {
@@ -92,19 +92,19 @@ a {
 h2 {
   margin: 0px;
   line-height: 1.7;
-  text-align: left;
   font-size: 20.5px;
+  text-align: left;
 }
 
 h3 {
   float: left;
   width: 800px;
   margin: 0px;
+  text-align: left;
+  color: white;
   border-color: rgb(0, 81, 81);
   background-color: rgb(0, 81, 81);
   border-style: solid;
-  text-align: left;
-  color: white;
 }
 
 .content {
